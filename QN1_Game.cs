@@ -1,5 +1,4 @@
-    QN1.
-    using System;
+ using System;
 
 class GameProgram
 { 
