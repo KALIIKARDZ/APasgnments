@@ -1,6 +1,6 @@
 // Credit for purchase , Wasn't much here just experimented with for loop and while loop
 /*"for" loop is basically used when the number of times loop statements are to be executed is known beforehand. U will see comments in my code 
-try for fun to understand looping /*
+try for fun to understand looping */
 
 using System;
 
@@ -28,7 +28,7 @@ class CreditCheck
             int quantity; 
             
             /* Below u can replace with for loop  "for (int i = 1; i <= n; i++)" as long as u initialize
-            value of "totalValue to 1 as shown above if not firmiliar with using Boolean /* 
+            value of "totalValue to 1 as shown above if not firmiliar with using Boolean */
             
             while (true) 
             {
