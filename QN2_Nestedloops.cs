@@ -2,7 +2,7 @@
     // For this question i found 2 ways to do it :
     /*a) Since number of rows and columns are equal(6) u assign it to a single variable
     e.g in my code "size" set to 6. If u look closely diagonally notice & , Kwa code cheki when 
-    "j=i" when index of row and column are the same ndo" &" when not the same" *"/*
+    "j=i" when index of row and column are the same ndo" &" when not the same" *"*/
 
  using System;
 
@@ -32,7 +32,7 @@ class PatternProgram
 
 /*b) So i wondered what if we were given different number of rows and columns lets say 4 rows
 5 columns. Code is below , u can replace values of row and column with 6 and still get the same 
-result as the 1st example/*
+result as the 1st example*/
 
 using System;
 
